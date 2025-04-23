@@ -1,5 +1,3 @@
----
-
 # 🧠 AI Agent using Groq and MCP to scrape and summarize content from any URL
 
 
