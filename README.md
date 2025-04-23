@@ -76,31 +76,31 @@ Output:
 summarize: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
 The Wikipedia article on the "History of Artificial Intelligence" provides a comprehensive overview of the development of AI from its inception to the present day. Here's a summary of the content:
 
-**Early Beginnings (1950s-1960s)**
+Early Beginnings (1950s-1960s)
 
 1. The term "Artificial Intelligence" was coined in 1956 by John McCarthy.
 2. The first AI program, called Logical Theorist, was developed in 1956 by Allen Newell and Herbert Simon.
 3. The first AI conference was held in 1956 at Dartmouth College.
 4. The development of the first AI languages, such as Lisp and Prolog, took place during this period.
 
-**Rule-Based Expert Systems (1970s-1980s)**
+Rule-Based Expert Systems (1970s-1980s)
 
 1. The introduction of rule-based expert systems, which mimicked human decision-making abilities, marked a significant milestone in AI development.
 2. The development of expert systems like MYCIN (1976) and DENDRAL (1969) demonstrated the potential of AI in various domains.      
 3. The emergence of knowledge engineering and the use of rule-based systems in commercial applications.
 
-**AI Winter (1980s-1990s)**
+AI Winter (1980s-1990s)
 
 1. The AI winter, a period of reduced interest and funding in AI research, occurred due to the limitations of rule-based systems and the lack of significant progress.
 2. The development of new approaches, such as machine learning and artificial neural networks, helped to revitalize AI research.    
 
-**Machine Learning and Resurgence (1990s-2000s)**
+Machine Learning and Resurgence (1990s-2000s)
 
 1. The introduction of machine learning algorithms, such as support vector machines and random forests, enabled AI systems to learn from data.
 2. The development of artificial neural networks, including convolutional neural networks (CNNs) and recurrent neural networks (RNNs), led to significant advancements in image and speech recognition.
 3. The resurgence of interest in AI, driven by the success of machine learning and the availability of large datasets.
 
-**Deep Learning and Current Developments (2010s-present)**
+Deep Learning and Current Developments (2010s-present)
 
 1. The development of deep learning techniques, such as deep neural networks (DNNs) and long short-term memory (LSTM) networks, has led to state-of-the-art performance in various AI tasks.
 2. The application of AI in areas like natural language processing, computer vision, and robotics has become increasingly prevalent.
