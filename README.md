@@ -74,6 +74,7 @@ Enter the URL to extract and summarize: https://en.wikipedia.org/wiki/History_of
 Output:
 ```bash
 summarize: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+
 The Wikipedia article on the "History of Artificial Intelligence" provides a comprehensive overview of the development of AI from its inception to the present day. Here's a summary of the content:
 
 Early Beginnings (1950s-1960s)
