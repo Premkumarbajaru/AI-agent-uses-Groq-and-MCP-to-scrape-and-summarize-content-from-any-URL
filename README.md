@@ -106,7 +106,7 @@ The Wikipedia article on the "History of Artificial Intelligence" provides a com
 2. The application of AI in areas like natural language processing, computer vision, and robotics has become increasingly prevalent.
 3. The emergence of new AI applications, such as autonomous vehicles, chatbots, and smart homes, has transformed various industries and aspects of daily life.
 
-**Key Milestones and Events**
+Key Milestones and Events
 
 1. 1950: Alan Turing proposes the Turing Test to measure a machine's ability to exhibit intelligent behavior.
 2. 1956: The first AI program, Logical Theorist, is developed.
